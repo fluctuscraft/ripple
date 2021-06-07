@@ -6,3 +6,6 @@
 
 
 ![case](/images/casebody.PNG)
+![btm](/images/casebottom.PNG)
+![plate](/images/plate.PNG)
+![rail](/images/rail.PNG)
